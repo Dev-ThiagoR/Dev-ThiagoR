@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Dev-ThiagoR/Dev-ThiagoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Thiago Ramos! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Atualmente sou estudante de Análise em Desenvolvimento de Sistemas na Escola Batista do Amazonas (ESBAM)...
+
+
+## 🛠 Habilidades
+Desenvolvimento Web, HTML, CSS...
+
+
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Trabalho atualmente na Ambev como Trainee.
+
+🧠 Estou aprendendo HTML, CSS.
+
+🤔 Procuro ajudar com algoritmos.
+
+💬 Me pergunte sobre tags.
+
+📫 Como entrar em contato comigo dev.thiagornunes@gmail.com
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-thiagornunes)
