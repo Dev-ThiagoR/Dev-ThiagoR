@@ -10,12 +10,12 @@ Atualmente sou estudante de Análise em Desenvolvimento de Sistemas na Escola Ba
 Desenvolvimento Web, HTML, CSS...
 
 
-## Outras seções comuns em perfis do GitHub
+## Curiosidades
 👩‍💻 Trabalho atualmente na Ambev como Trainee.
 
 🧠 Estou aprendendo HTML, CSS.
 
-🤔 Procuro ajudar com algoritmos.
+🤔 Procuro ajuda com algoritmos.
 
 💬 Me pergunte sobre tags.
 
